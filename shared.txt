@@ -1,2 +1,2 @@
 def function_1(x):
-    return x**2
+    return x + 5
